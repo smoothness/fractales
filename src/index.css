@@ -1,0 +1,31 @@
+body {
+  background: #fff;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+input[type='range'] {
+  /* overflow: hidden; */
+  width: 80px;
+  -webkit-appearance: none;
+  background-color: #1dd3d3;
+}
+
+input[type='range']::-webkit-slider-runnable-track {
+  height: 10px;
+  -webkit-appearance: none;
+  color: #266b6b;
+  margin-top: -1px;
+}
+
+input[type='range']::-webkit-slider-thumb {
+  width: 16px;
+  position: relative;
+  top: -2px;
+  -webkit-appearance: none;
+  height: 16px;
+  border-radius: 50%;
+  cursor: ew-resize;
+  background: #000;
+}
