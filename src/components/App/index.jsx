@@ -51,7 +51,7 @@ export default class App extends Component {
           <h4>Fractales</h4>
           <p style={{margin: 0}}>Este proyecto consiste en una demostración de fractales.</p>
           <p style={{margin: 0}}><small><b>Profesor:</b> Pedro Romero</small></p>
-          <p style={{margin: 0}}><small><b>Estudiantes:</b> Sydney Rodríguez- Javier Poveda</small></p> 
+          <p style={{margin: 0}}><small><b>Estudiantes:</b> Sidney Rodríguez- Javier Poveda</small></p> 
         </div>
         {/* Main content --------------------------------------------------- */}
         <div
